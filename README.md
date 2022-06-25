@@ -12,6 +12,6 @@ Listening to music
 	Mac Miller
 	The Beatles
 	The Strokes
-Reading Manga and Watchin Anime
+Reading Manga and Watching Anime
 
 

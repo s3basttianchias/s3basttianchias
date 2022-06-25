@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi,  I´m Sebastian 😬
 
-<!--
-**s3basttianchias/s3basttianchias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m a applied mathematics and computing student but also Machine Learning & Artificial Intelligence enthusiast.
+I started immersing me in the field of data science two years ago. 
 
-Here are some ideas to get you started:
+Hobbies:
+-Listening to music
+	-Mac Miller
+	-The Beatles
+	-The Strokes
+-Reading Manga and Watchin Anime
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
